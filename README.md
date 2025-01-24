@@ -32,3 +32,7 @@ hackathon_project/
 
 * ```frontend``` using Flask as a framework to render webpage and use endpoint provided by ```backend``` (You can use any frontend stack you want built, for example: React, Vue, or Angular, can make requests to the FastAPI backend using libraries like fetch or axios for HTTP requests)
 
+<img width="1440" alt="AI Chatbot" src="https://github.com/user-attachments/assets/32876703-0f28-41f6-ae98-5871269e4e2e" />
+
+
+
