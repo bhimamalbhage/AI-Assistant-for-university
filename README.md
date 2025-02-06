@@ -1,3 +1,5 @@
+ A chat bot to help Troy's students by providing personalized Course Recommendations, Degree Program Information, Campus Resources Guidance and Real-time Answers
+
 *This is the repo for the Hackathon project! 🪴*
 
 ### Project Structure
