@@ -36,5 +36,7 @@ hackathon_project/
 
 <img width="1440" alt="AI Chatbot" src="https://github.com/user-attachments/assets/32876703-0f28-41f6-ae98-5871269e4e2e" />
 
+Blog Post - https://www.troy.edu/academics/colleges-schools/college-arts-sciences/departments/school-science-technology/computer-science/news-and-events.html
+
 
 
